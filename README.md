@@ -1,2 +1,2 @@
 # Flappy Bird
-my first platform -game in unity 
+flappy bird game

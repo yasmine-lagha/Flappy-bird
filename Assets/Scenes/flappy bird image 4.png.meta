@@ -1,0 +1,2291 @@
+fileFormatVersion: 2
+guid: 2fbdb59899a403e4293000bfb9fc1225
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4015835191309674708
+    second: flappy bird image 4_0
+  - first:
+      213: -1850515499913748165
+    second: flappy bird image 4_1
+  - first:
+      213: -2575443057736018924
+    second: flappy bird image 4_2
+  - first:
+      213: -6337051207743714110
+    second: flappy bird image 4_3
+  - first:
+      213: 7030487186988443850
+    second: flappy bird image 4_4
+  - first:
+      213: -4868119868013895857
+    second: flappy bird image 4_5
+  - first:
+      213: 2176162918707475807
+    second: flappy bird image 4_6
+  - first:
+      213: 7556209843219525055
+    second: flappy bird image 4_7
+  - first:
+      213: -7434373941865224352
+    second: flappy bird image 4_8
+  - first:
+      213: 3873776280420172694
+    second: flappy bird image 4_9
+  - first:
+      213: 2453548708978934503
+    second: flappy bird image 4_10
+  - first:
+      213: -493912999993954099
+    second: flappy bird image 4_11
+  - first:
+      213: -4909462536721888500
+    second: flappy bird image 4_12
+  - first:
+      213: 1686662709930450462
+    second: flappy bird image 4_13
+  - first:
+      213: -1330718061150613424
+    second: flappy bird image 4_14
+  - first:
+      213: 1385586653730481681
+    second: flappy bird image 4_15
+  - first:
+      213: 3627780776779465625
+    second: flappy bird image 4_16
+  - first:
+      213: -3049862429704727719
+    second: flappy bird image 4_17
+  - first:
+      213: 9057467746837438908
+    second: flappy bird image 4_18
+  - first:
+      213: -2996491918491742418
+    second: flappy bird image 4_19
+  - first:
+      213: -1028717232328514567
+    second: flappy bird image 4_20
+  - first:
+      213: 3366797679443244323
+    second: flappy bird image 4_21
+  - first:
+      213: -4863707335678004344
+    second: flappy bird image 4_22
+  - first:
+      213: 8366829196665554835
+    second: flappy bird image 4_23
+  - first:
+      213: -2971418479993700946
+    second: flappy bird image 4_24
+  - first:
+      213: 1599339726836281738
+    second: flappy bird image 4_25
+  - first:
+      213: -877987903493840099
+    second: flappy bird image 4_26
+  - first:
+      213: -8328248505188244168
+    second: flappy bird image 4_27
+  - first:
+      213: -4035691747770371320
+    second: flappy bird image 4_28
+  - first:
+      213: 5198526508311892387
+    second: flappy bird image 4_29
+  - first:
+      213: 3584088419277711695
+    second: flappy bird image 4_30
+  - first:
+      213: -1443430466174697061
+    second: flappy bird image 4_31
+  - first:
+      213: 5967925576762453287
+    second: flappy bird image 4_32
+  - first:
+      213: -2954978810321221387
+    second: flappy bird image 4_33
+  - first:
+      213: 7602681141672727622
+    second: flappy bird image 4_34
+  - first:
+      213: -9190825828269312946
+    second: flappy bird image 4_35
+  - first:
+      213: 2118341998210858060
+    second: flappy bird image 4_36
+  - first:
+      213: -332101254988805005
+    second: flappy bird image 4_37
+  - first:
+      213: 5228471736122775526
+    second: flappy bird image 4_38
+  - first:
+      213: -4955447674326791917
+    second: flappy bird image 4_39
+  - first:
+      213: -6046334235091090825
+    second: flappy bird image 4_40
+  - first:
+      213: 7038599939841521860
+    second: flappy bird image 4_41
+  - first:
+      213: -931097019800868537
+    second: flappy bird image 4_42
+  - first:
+      213: 3183800486342382667
+    second: flappy bird image 4_43
+  - first:
+      213: 2769699645219011653
+    second: flappy bird image 4_44
+  - first:
+      213: -3473624972841878978
+    second: flappy bird image 4_45
+  - first:
+      213: -3566870200562356684
+    second: flappy bird image 4_46
+  - first:
+      213: 2038413371750904538
+    second: flappy bird image 4_47
+  - first:
+      213: -8597081283154714132
+    second: flappy bird image 4_48
+  - first:
+      213: 6540331225579422182
+    second: flappy bird image 4_49
+  - first:
+      213: -5679156789629905750
+    second: flappy bird image 4_50
+  - first:
+      213: 6467181496220262777
+    second: flappy bird image 4_51
+  - first:
+      213: -5742620138851143956
+    second: flappy bird image 4_52
+  - first:
+      213: 3613001915145659125
+    second: flappy bird image 4_53
+  - first:
+      213: 8199202929119104263
+    second: flappy bird image 4_54
+  - first:
+      213: 4052276334740657067
+    second: flappy bird image 4_55
+  - first:
+      213: 6011236014418169157
+    second: flappy bird image 4_56
+  - first:
+      213: 5819612888816623464
+    second: flappy bird image 4_57
+  - first:
+      213: -2276831164403966594
+    second: flappy bird image 4_58
+  - first:
+      213: -2868626586450375129
+    second: flappy bird image 4_59
+  - first:
+      213: -7058522872981871280
+    second: flappy bird image 4_60
+  - first:
+      213: -4813803999200450437
+    second: flappy bird image 4_61
+  - first:
+      213: -1004230485680311664
+    second: flappy bird image 4_62
+  - first:
+      213: -6281249202611344026
+    second: flappy bird image 4_63
+  - first:
+      213: 7024959647136626391
+    second: flappy bird image 4_64
+  - first:
+      213: -4893350538329325998
+    second: flappy bird image 4_65
+  - first:
+      213: 4662062696486097883
+    second: flappy bird image 4_66
+  - first:
+      213: -3399843972709252582
+    second: flappy bird image 4_67
+  - first:
+      213: -7610241197135946097
+    second: flappy bird image 4_68
+  - first:
+      213: 8275384116588975363
+    second: flappy bird image 4_69
+  - first:
+      213: -2839347395951285960
+    second: flappy bird image 4_70
+  - first:
+      213: -4828656248068401956
+    second: flappy bird image 4_71
+  - first:
+      213: 8056703485232218367
+    second: flappy bird image 4_72
+  - first:
+      213: -6599870577134193693
+    second: flappy bird image 4_73
+  - first:
+      213: -5214153070972161322
+    second: flappy bird image 4_74
+  - first:
+      213: 4792799857587004582
+    second: flappy bird image 4_75
+  - first:
+      213: 6311532577546288385
+    second: flappy bird image 4_76
+  - first:
+      213: 1997453276573356906
+    second: flappy bird image 4_77
+  - first:
+      213: -3620761436486701603
+    second: flappy bird image 4_78
+  - first:
+      213: -8754208363748884610
+    second: flappy bird image 4_79
+  - first:
+      213: 9120046579138069792
+    second: flappy bird image 4_80
+  - first:
+      213: -3346378148967810366
+    second: flappy bird image 4_0
+  - first:
+      213: -922525955448897997
+    second: flappy bird image 4_1
+  - first:
+      213: -1743090929419966140
+    second: flappy bird image 4_2
+  - first:
+      213: 3810236838356309578
+    second: flappy bird image 4_3
+  - first:
+      213: -1817887251160840579
+    second: flappy bird image 4_4
+  - first:
+      213: -5563539387114111317
+    second: flappy bird image 4_5
+  - first:
+      213: -8165805849731970436
+    second: flappy bird image 4_6
+  - first:
+      213: -877096431029825954
+    second: flappy bird image 4_7
+  - first:
+      213: -4065342559416722176
+    second: flappy bird image 4_8
+  - first:
+      213: -5337535417429892314
+    second: flappy bird image 4_9
+  - first:
+      213: -2896321137168813538
+    second: flappy bird image 4_10
+  - first:
+      213: 5012920616264246860
+    second: flappy bird image 4_11
+  - first:
+      213: -1536237154868946134
+    second: flappy bird image 4_12
+  - first:
+      213: 7194202434246653139
+    second: flappy bird image 4_13
+  - first:
+      213: -5072198147726213541
+    second: flappy bird image 4_14
+  - first:
+      213: 8030737724537950140
+    second: flappy bird image 4_15
+  - first:
+      213: 1363057066031812351
+    second: flappy bird image 4_16
+  - first:
+      213: 8335619759860350773
+    second: flappy bird image 4_17
+  - first:
+      213: 4789403992691486356
+    second: flappy bird image 4_18
+  - first:
+      213: 363168621453308480
+    second: flappy bird image 4_19
+  - first:
+      213: -7191980844685441739
+    second: flappy bird image 4_20
+  - first:
+      213: 1951652981847668760
+    second: flappy bird image 4_21
+  - first:
+      213: 8675467360853538920
+    second: flappy bird image 4_22
+  - first:
+      213: -7614262703171510118
+    second: flappy bird image 4_23
+  - first:
+      213: -8565078816383721796
+    second: flappy bird image 4_24
+  - first:
+      213: 500069528850107745
+    second: flappy bird image 4_25
+  - first:
+      213: 5555403512174713385
+    second: flappy bird image 4_26
+  - first:
+      213: -1581711699964869946
+    second: flappy bird image 4_27
+  - first:
+      213: 7930752835732418153
+    second: flappy bird image 4_28
+  - first:
+      213: -2522553400373887856
+    second: flappy bird image 4_29
+  - first:
+      213: 1772586698777685504
+    second: flappy bird image 4_30
+  - first:
+      213: 777612476491209781
+    second: flappy bird image 4_31
+  - first:
+      213: -1352934490689081242
+    second: flappy bird image 4_32
+  - first:
+      213: -2472892078834935494
+    second: flappy bird image 4_33
+  - first:
+      213: -1498715305513404956
+    second: flappy bird image 4_34
+  - first:
+      213: 1326513126445624220
+    second: flappy bird image 4_35
+  - first:
+      213: -2205372214072508333
+    second: flappy bird image 4_36
+  - first:
+      213: 8030590109063369527
+    second: flappy bird image 4_37
+  - first:
+      213: -6217494086701167324
+    second: flappy bird image 4_38
+  - first:
+      213: -2719215698210922064
+    second: flappy bird image 4_39
+  - first:
+      213: 2602126662644392040
+    second: flappy bird image 4_40
+  - first:
+      213: -8239236064137306496
+    second: flappy bird image 4_41
+  - first:
+      213: 1213802612895775160
+    second: flappy bird image 4_42
+  - first:
+      213: -3645542910344719700
+    second: flappy bird image 4_43
+  - first:
+      213: -877556043598816341
+    second: flappy bird image 4_44
+  - first:
+      213: 5679305745710317910
+    second: flappy bird image 4_45
+  - first:
+      213: 3143861776070620155
+    second: flappy bird image 4_46
+  - first:
+      213: -6478861512738780832
+    second: flappy bird image 4_47
+  - first:
+      213: 6315405209631656510
+    second: flappy bird image 4_48
+  - first:
+      213: -4617154083979363102
+    second: flappy bird image 4_49
+  - first:
+      213: -623031982289357621
+    second: flappy bird image 4_50
+  - first:
+      213: 1617324776469239071
+    second: flappy bird image 4_51
+  - first:
+      213: -6257030527881553481
+    second: flappy bird image 4_52
+  - first:
+      213: -1518937393751663846
+    second: flappy bird image 4_53
+  - first:
+      213: -8561527165226054844
+    second: flappy bird image 4_54
+  - first:
+      213: 857051656513689396
+    second: flappy bird image 4_55
+  - first:
+      213: -6764959989519711025
+    second: flappy bird image 4_56
+  - first:
+      213: -2267529850058269849
+    second: flappy bird image 4_57
+  - first:
+      213: -4312795042744638200
+    second: flappy bird image 4_58
+  - first:
+      213: 3613029063370212240
+    second: flappy bird image 4_59
+  - first:
+      213: -7390616595469460038
+    second: flappy bird image 4_60
+  - first:
+      213: -623683114096172135
+    second: flappy bird image 4_61
+  - first:
+      213: 671890232709715781
+    second: flappy bird image 4_62
+  - first:
+      213: -3006038457354256776
+    second: flappy bird image 4_63
+  - first:
+      213: 4976008525092019438
+    second: flappy bird image 4_64
+  - first:
+      213: 3882862880816938471
+    second: flappy bird image 4_65
+  - first:
+      213: -3410711743242291033
+    second: flappy bird image 4_66
+  - first:
+      213: -7827988680874611818
+    second: flappy bird image 4_67
+  - first:
+      213: -3005153581565143804
+    second: flappy bird image 4_68
+  - first:
+      213: -7928163213451121745
+    second: flappy bird image 4_69
+  - first:
+      213: -2687827253730050379
+    second: flappy bird image 4_70
+  - first:
+      213: -3221872297319774382
+    second: flappy bird image 4_71
+  - first:
+      213: 3014282744404966349
+    second: flappy bird image 4_72
+  - first:
+      213: 3663344523839765422
+    second: flappy bird image 4_73
+  - first:
+      213: -6255176850005342755
+    second: flappy bird image 4_74
+  - first:
+      213: -6584228337310827270
+    second: flappy bird image 4_75
+  - first:
+      213: 9076961957243142645
+    second: flappy bird image 4_76
+  - first:
+      213: 2444490337204235415
+    second: flappy bird image 4_77
+  - first:
+      213: -8770399885046607568
+    second: flappy bird image 4_78
+  - first:
+      213: 1370457607756845755
+    second: flappy bird image 4_79
+  - first:
+      213: -4441858968776222848
+    second: flappy bird image 4_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappy bird image 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf4aaadc64f81d0800000000000000
+      internalID: -3346378148967810366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ef36108878233f0800000000000000
+      internalID: -922525955448897997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a7b4f80c4fc7e0800000000000000
+      internalID: -1743090929419966140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 493
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46d55c873ea0e430800000000000000
+      internalID: 3810236838356309578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 502
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76c8d83d2195c6e0800000000000000
+      internalID: -1817887251160840579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 490
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae3b2187665ac2b0800000000000000
+      internalID: -5563539387114111317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_6
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 472
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a4bed08da3dae80800000000000000
+      internalID: -8165805849731970436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_7
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 476
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e44ba617de3d3f0800000000000000
+      internalID: -877096431029825954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_8
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 456
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d50b73b700597c0800000000000000
+      internalID: -4065342559416722176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 460
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623660c31d34de5b0800000000000000
+      internalID: -5337535417429892314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 432
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12f89765433ec7d0800000000000000
+      internalID: -2896321137168813538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 428
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46a9abadb8719540800000000000000
+      internalID: 5012920616264246860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 432
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b974d62703eaae0800000000000000
+      internalID: -1536237154868946134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 432
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4b5875ff0f6d360800000000000000
+      internalID: 7194202434246653139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_14
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 434
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e726688aeeb99b0800000000000000
+      internalID: -5072198147726213541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 423
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfc96b6969e27f60800000000000000
+      internalID: 8030737724537950140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 409
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe89650e2d8ae210800000000000000
+      internalID: 1363057066031812351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_17
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 397
+        width: 89
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ff331f1021ea370800000000000000
+      internalID: 8335619759860350773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 415
+        width: 24
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea6365e81677240800000000000000
+      internalID: 4789403992691486356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 415
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042fa43efeb3a0500800000000000000
+      internalID: 363168621453308480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 415
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5354c19c683f03c90800000000000000
+      internalID: -7191980844685441739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_21
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 415
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818bcd3fb0aa51b10800000000000000
+      internalID: 1951652981847668760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 415
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868bb20a993756870800000000000000
+      internalID: 8675467360853538920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_23
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 415
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90e4fed964b45690800000000000000
+      internalID: -7614262703171510118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 415
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe993c323ab22980800000000000000
+      internalID: -8565078816383721796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_25
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 405
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d8b16469a90f600800000000000000
+      internalID: 500069528850107745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_26
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a912f7f02c81d40800000000000000
+      internalID: 5555403512174713385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_27
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 379
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2c382d691ac0ae0800000000000000
+      internalID: -1581711699964869946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 372
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ea0476fa1bf0e60800000000000000
+      internalID: 7930752835732418153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 379
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cb2c32c071efcd0800000000000000
+      internalID: -2522553400373887856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_30
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 365
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ee932063e799810800000000000000
+      internalID: 1772586698777685504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 365
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9b2a6d62aaca00800000000000000
+      internalID: 777612476491209781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 356
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607a16bf39693de0800000000000000
+      internalID: -1352934490689081242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 356
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a399a2991c58eadd0800000000000000
+      internalID: -2472892078834935494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_34
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 334
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5be63ce5e733be0800000000000000
+      internalID: -1498715305513404956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 334
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b2fab09a8b86210800000000000000
+      internalID: 1326513126445624220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 334
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35001b6e7a1f461e0800000000000000
+      internalID: -2205372214072508333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_37
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 334
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733dc730823627f60800000000000000
+      internalID: 8030590109063369527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 310
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc511e11607b9a0800000000000000
+      internalID: -6217494086701167324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 310
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1e870cab7634ad0800000000000000
+      internalID: -2719215698210922064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_40
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 310
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ed7bb96c9c1420800000000000000
+      internalID: 2602126662644392040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 310
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1288f37a58ad80800000000000000
+      internalID: -8239236064137306496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 290
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9f711ab0b48d010800000000000000
+      internalID: 1213802612895775160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_43
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 296
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29577b90e686dc0800000000000000
+      internalID: -3645542910344719700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9bc68d6b42d3f0800000000000000
+      internalID: -877556043598816341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_45
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 260
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65106e74c72f0de40800000000000000
+      internalID: 5679305745710317910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 196
+        width: 113
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf33e91e0ad31ab20800000000000000
+      internalID: 3143861776070620155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 232
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0694148d7c57616a0800000000000000
+      internalID: -6478861512738780832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 208
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a0fb4e393d4a750800000000000000
+      internalID: 6315405209631656510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 192
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec7a27c2d29cefb0800000000000000
+      internalID: -4617154083979363102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_50
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 196
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc47feb86bb8a57f0800000000000000
+      internalID: -623031982289357621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1513e3b054e17610800000000000000
+      internalID: 1617324776469239071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b958d4d2ef8a29a0800000000000000
+      internalID: -6257030527881553481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bdf51fc76abeae0800000000000000
+      internalID: -1518937393751663846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 26
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b08d577685f2980800000000000000
+      internalID: -8561527165226054844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_55
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 171
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43798a4d0fbd4eb00800000000000000
+      internalID: 857051656513689396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 168
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc482f85bb80e12a0800000000000000
+      internalID: -6764959989519711025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b9ea18d9d1880e0800000000000000
+      internalID: -2267529850058269849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_58
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 156
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e32042cfd524c0800000000000000
+      internalID: -4312795042744638200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 141
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093085d5ace042230800000000000000
+      internalID: 3613029063370212240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 119
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd9fe31d514f6990800000000000000
+      internalID: -7390616595469460038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 130
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99363eb138b3857f0800000000000000
+      internalID: -623683114096172135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 121
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54797b85b98035900800000000000000
+      internalID: 671890232709715781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_63
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7c3023f76846d0800000000000000
+      internalID: -3006038457354256776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 93
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdc69b3655e0540800000000000000
+      internalID: 4976008525092019438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_65
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 104
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb4a2c733b2e530800000000000000
+      internalID: 3882862880816938471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a83ac08db7baa0d0800000000000000
+      internalID: -3410711743242291033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_67
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 67
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba0bae4c56d5390800000000000000
+      internalID: -7827988680874611818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_68
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40511535dbc8b46d0800000000000000
+      internalID: -3005153581565143804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2de4009189f190800000000000000
+      internalID: -7928163213451121745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_70
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be7ecb7a5be2bad0800000000000000
+      internalID: -2687827253730050379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257459e373c9943d0800000000000000
+      internalID: -3221872297319774382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 13
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbf8d88f22e4d920800000000000000
+      internalID: 3014282744404966349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 25
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab77596f60d6d230800000000000000
+      internalID: 3663344523839765422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd54f28dbc52139a0800000000000000
+      internalID: -6255176850005342755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf682463f10a4a0800000000000000
+      internalID: -6584228337310827270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1463deec8d7fd70800000000000000
+      internalID: 9076961957243142645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ceeed92039ce120800000000000000
+      internalID: 2444490337204235415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 13
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0319ba9a5c7494680800000000000000
+      internalID: -8770399885046607568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2141aeee7d40310800000000000000
+      internalID: 1370457607756845755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy bird image 4_80
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087d5b74dc85b52c0800000000000000
+      internalID: -4441858968776222848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
